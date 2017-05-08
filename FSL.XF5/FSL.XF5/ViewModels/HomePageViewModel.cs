@@ -11,5 +11,7 @@ namespace FSL.XF5.ViewModels
     public class HomePageViewModel
     {
         public string Titulo { get; set; }
+        public string Nome { get; set; }
+        public int Idade { get; set; }
     }
 }
